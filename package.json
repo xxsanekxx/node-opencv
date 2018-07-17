@@ -7,13 +7,13 @@
     "buffers": "^0.1.1",
     "istanbul": "0.4.5",
     "nan": "^2.0.9",
-    "node-pre-gyp": "^0.6.33"
+    "node-pre-gyp": "^0.10.3"
   },
   "devDependencies": {
-    "tape": "^3.0.0",
     "aws-sdk": "~2.1.20",
     "glob": "^5.0.3",
-    "request": "^2.44.0"
+    "request": "^2.87.0",
+    "tape": "^4.9.1"
   },
   "bundledDependencies": [
     "node-pre-gyp"
